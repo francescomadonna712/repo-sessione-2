@@ -6,6 +6,15 @@
 }
 <<<<<<< HEAD
 
+header {
+    height: 4rem;
+    padding: 1rem;
+}
+
+header img {
+    height: 2rem;
+}
+
 body {
 
     text-align: center;
