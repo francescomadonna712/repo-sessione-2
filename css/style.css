@@ -4,3 +4,12 @@
     margin: 0;
     font-family: sans-serif;
 }
+
+header {
+    height: 4rem;
+    padding: 1rem;
+}
+
+header img {
+    height: 2rem;
+}
